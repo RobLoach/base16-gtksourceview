@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Base16 Spaceduck Template for GtkSourceView.
+  Color scheme by Guillermo Rodriguez (https://github.com/pineapplegiant), packaged by Gabriel Fontes (https://github.com/Misterio77).
+
+  Base16 GTKSourceView template by Rob Loach (https://robloach.net)
+  https://github.com/robloach/base16-gtksourceview
+
+  Copyright (C) 2024 Rob Loach (https://robloach.net)
+
+  base16-gtksourceview is free software; you can redistribute it and/or
+  modify it under the terms of the GNU Lesser General Public
+  License as published by the Free Software Foundation; either
+  version 2.1 of the License, or (at your option) any later version.
+
+  base16-gtksourceview is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+  Lesser General Public License for more details.
+
+  You should have received a copy of the GNU Lesser General Public License
+  along with this library; if not, see <http://www.gnu.org/licenses/>.
+
+-->
+<style-scheme id="base16-spaceduck" _name="Base16 Spaceduck" version="1.0">
+  <author>Guillermo Rodriguez (https://github.com/pineapplegiant), packaged by Gabriel Fontes (https://github.com/Misterio77)</author>
+  <_description></_description>
+
+  <!-- Solarized Palette -->
+  <color name="base00" value="#16172d"/>
+  <color name="base01" value="#1b1c36"/>
+  <color name="base02" value="#30365f"/>
+  <color name="base03" value="#686f9a"/>
+  <color name="base04" value="#818596"/>
+  <color name="base05" value="#ecf0c1"/>
+  <color name="base06" value="#c1c3cc"/>
+  <color name="base07" value="#ffffff"/>
+  <color name="base08" value="#e33400"/>
+  <color name="base09" value="#e39400"/>
+  <color name="base0A" value="#f2ce00"/>
+  <color name="base0B" value="#5ccc96"/>
+  <color name="base0C" value="#00a3cc"/>
+  <color name="base0D" value="#7a5ccc"/>
+  <color name="base0E" value="#b3a1e6"/>
+  <color name="base0F" value="#ce6f8f"/>
+
+  <!-- Global Settings -->
+  <style name="text"                        foreground="base05" background="base00"/>
+  <style name="selection"                   foreground="base05" background="base02"/>
+  <style name="cursor"                      foreground="base05"/>
+  <style name="secondary-cursor"            foreground="base06"/>
+  <style name="current-line"                background="base01"/>
+  <style name="line-numbers"                foreground="base05" background="base03"/>
+  <style name="background-pattern"          background="base0F"/>
+
+  <!-- Bracket Matching -->
+  <style name="bracket-match"               foreground="base03" background="base01"/>
+  <style name="bracket-mismatch"            foreground="base08" background="base01"/>
+
+  <!-- Right Margin -->
+  <style name="right-margin"                foreground="base05" background="base01"/>
+
+  <!-- Search Matching -->
+  <style name="search-match"                foreground="base03" background="base00"/>
+
+  <!-- Comments -->
+  <style name="def:comment"                 foreground="base03"/>
+  <style name="def:shebang"                 foreground="base08" bold="true"/>
+  <style name="def:doc-comment-element"     italic="true"/>
+
+  <!-- Constants -->
+  <style name="def:constant"                foreground="base0B"/>
+  <style name="def:special-char"            foreground="base0C"/>
+
+  <!-- Identifiers -->
+  <style name="def:identifier"              foreground="base08"/>
+
+  <!-- Functions -->
+  <style name="def:function"                foreground="base0D"/>
+
+  <!-- Keywords -->
+  <style name="def:keyword"                 foreground="base0E"/>
+
+  <!-- Statements -->
+  <style name="def:statement"               foreground="base09"/>
+
+  <!-- Types -->
+  <style name="def:type"                    foreground="base0A"/>
+
+  <!-- Markup -->
+  <style name="def:emphasis"                italic="true"/>
+  <style name="def:strong-emphasis"         foreground="base09"/>
+  <style name="def:inline-code"             foreground="base0D"/>
+  <style name="def:insertion"               underline="single"/>
+  <style name="def:deletion"                strikethrough="true"/>
+  <style name="def:link-text"               foreground="base08"/>
+  <style name="def:link-symbol"             foreground="base01" bold="true"/>
+  <style name="def:link-destination"        italic="true" underline="single"/>
+  <style name="def:heading"                 foreground="base0D"/>
+  <style name="def:thematic-break"          foreground="base0F"/>
+  <style name="def:preformatted-section"    foreground="base0D"/>
+  <style name="def:list-marker"             foreground="base08"/>
+
+  <!-- Operators -->
+  <style name="def:operator"                foreground="base0B"/>
+
+  <!-- Others -->
+  <style name="def:preprocessor"            foreground="base0A"/>
+  <style name="def:error"                   foreground="base08" bold="true"/>
+  <style name="def:note"                    foreground="base0E" bold="true"/>
+  <style name="def:net-address"             italic="true" underline="single"/>
+
+  <!-- Heading styles, uncomment to enable -->
+  <!--
+  <style name="def:heading0"                scale="5.0"/>
+  <style name="def:heading1"                scale="2.5"/>
+  <style name="def:heading2"                scale="2.0"/>
+  <style name="def:heading3"                scale="1.7"/>
+  <style name="def:heading4"                scale="1.5"/>
+  <style name="def:heading5"                scale="1.3"/>
+  <style name="def:heading6"                scale="1.2"/>
+  -->
+
+  <!-- C Overrides -->
+  <style name="c:preprocessor"              foreground="base09"/>
+  <style name="c:type-keyword"              foreground="base0E"/>
+
+  <!-- GTK-DOC Overrides -->
+  <style name="gtk-doc:type"                foreground="base0E"/>
+  <style name="gtk-doc:function"            foreground="base0D"/>
+  <style name="gtk-doc:function-name"       bold="true"/>
+  <style name="gtk-doc:property-name"       bold="true"/>
+  <style name="gtk-doc:signal-name"         bold="true"/>
+  <style name="gtk-doc:parameter"           bold="true"/>
+  <style name="gtk-doc:constant"            foreground="base09"/>
+  <style name="gtk-doc:return"              bold="true"/>
+  <style name="gtk-doc:since"               bold="true"/>
+  <style name="gtk-doc:deprecated"          bold="true"/>
+</style-scheme>
