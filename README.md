@@ -2,6 +2,8 @@
 
 [GTKSourceView](https://wiki.gnome.org/Projects/GtkSourceView) templates for [base16] color schemes to provide syntax highlighting in [GEdit](https://help.ubuntu.com/community/gedit), [Xed](https://github.com/linuxmint/xed), etc.
 
+![Screenshot](screenshot.png)
+
 ## Installation
 
 1. [Download](https://github.com/RobLoach/base16-gtksourceview/archive/refs/heads/master.zip) the files
