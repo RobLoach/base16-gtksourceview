@@ -27,22 +27,22 @@
   <_description></_description>
 
   <!-- Solarized Palette -->
-  <color name="base00" value="#2f383e"/>
-  <color name="base01" value="#374247"/>
-  <color name="base02" value="#4a555b"/>
+  <color name="base00" value="#2d353b"/>
+  <color name="base01" value="#343f44"/>
+  <color name="base02" value="#475258"/>
   <color name="base03" value="#859289"/>
   <color name="base04" value="#9da9a0"/>
   <color name="base05" value="#d3c6aa"/>
-  <color name="base06" value="#e4e1cd"/>
+  <color name="base06" value="#e6e2cc"/>
   <color name="base07" value="#fdf6e3"/>
-  <color name="base08" value="#7fbbb3"/>
-  <color name="base09" value="#d699b6"/>
+  <color name="base08" value="#e67e80"/>
+  <color name="base09" value="#e69875"/>
   <color name="base0A" value="#dbbc7f"/>
-  <color name="base0B" value="#83c092"/>
-  <color name="base0C" value="#e69875"/>
-  <color name="base0D" value="#a7c080"/>
-  <color name="base0E" value="#e67e80"/>
-  <color name="base0F" value="#eaedc8"/>
+  <color name="base0B" value="#a7c080"/>
+  <color name="base0C" value="#83c092"/>
+  <color name="base0D" value="#7fbbb3"/>
+  <color name="base0E" value="#d699b6"/>
+  <color name="base0F" value="#9da9a0"/>
 
   <!-- Global Settings -->
   <style name="text"                        foreground="base05" background="base00"/>

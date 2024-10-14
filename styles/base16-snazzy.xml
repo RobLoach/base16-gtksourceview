@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Base16 Snazzy Template for GtkSourceView.
-  Color scheme by Chawye Hsu (https://github.com/chawyehsu) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy).
+  Color scheme by Chawye Hsu (https://github.com/chawyehsu), based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy).
 
   Base16 GTKSourceView template by Rob Loach (https://robloach.net)
   https://github.com/robloach/base16-gtksourceview
@@ -23,7 +23,7 @@
 
 -->
 <style-scheme id="base16-snazzy" _name="Base16 Snazzy" version="1.0">
-  <author>Chawye Hsu (https://github.com/chawyehsu) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)</author>
+  <author>Chawye Hsu (https://github.com/chawyehsu), based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)</author>
   <_description></_description>
 
   <!-- Solarized Palette -->

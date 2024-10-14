@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Base16 Dracula Template for GtkSourceView.
-  Color scheme by Mike Barkmin (http://github.com/mikebarkmin) based on Dracula Theme (http://github.com/dracula).
+  Color scheme by Jamy Golden (http://github.com/JamyGolden), based on Dracula Theme (http://github.com/dracula).
 
   Base16 GTKSourceView template by Rob Loach (https://robloach.net)
   https://github.com/robloach/base16-gtksourceview
@@ -23,26 +23,26 @@
 
 -->
 <style-scheme id="base16-dracula" _name="Base16 Dracula" version="1.0">
-  <author>Mike Barkmin (http://github.com/mikebarkmin) based on Dracula Theme (http://github.com/dracula)</author>
+  <author>Jamy Golden (http://github.com/JamyGolden), based on Dracula Theme (http://github.com/dracula)</author>
   <_description></_description>
 
   <!-- Solarized Palette -->
-  <color name="base00" value="#282936"/>
-  <color name="base01" value="#3a3c4e"/>
-  <color name="base02" value="#4d4f68"/>
-  <color name="base03" value="#626483"/>
-  <color name="base04" value="#62d6e8"/>
-  <color name="base05" value="#e9e9f4"/>
-  <color name="base06" value="#f1f2f8"/>
-  <color name="base07" value="#f7f7fb"/>
-  <color name="base08" value="#ea51b2"/>
-  <color name="base09" value="#b45bcf"/>
-  <color name="base0A" value="#00f769"/>
-  <color name="base0B" value="#ebff87"/>
-  <color name="base0C" value="#a1efe4"/>
-  <color name="base0D" value="#62d6e8"/>
-  <color name="base0E" value="#b45bcf"/>
-  <color name="base0F" value="#00f769"/>
+  <color name="base00" value="#282a36"/>
+  <color name="base01" value="#363447"/>
+  <color name="base02" value="#44475a"/>
+  <color name="base03" value="#6272a4"/>
+  <color name="base04" value="#9ea8c7"/>
+  <color name="base05" value="#f8f8f2"/>
+  <color name="base06" value="#f0f1f4"/>
+  <color name="base07" value="#ffffff"/>
+  <color name="base08" value="#ff5555"/>
+  <color name="base09" value="#ffb86c"/>
+  <color name="base0A" value="#f1fa8c"/>
+  <color name="base0B" value="#50fa7b"/>
+  <color name="base0C" value="#8be9fd"/>
+  <color name="base0D" value="#80bfff"/>
+  <color name="base0E" value="#ff79c6"/>
+  <color name="base0F" value="#bd93f9"/>
 
   <!-- Global Settings -->
   <style name="text"                        foreground="base05" background="base00"/>

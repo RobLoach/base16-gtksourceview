@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Base16 Shades of Purple Template for GtkSourceView.
-  Color scheme by Iolar Demartini Junior (http://github.com/demartini) based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode)..
+  Color scheme by Iolar Demartini Junior (http://github.com/demartini), based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode).
 
   Base16 GTKSourceView template by Rob Loach (https://robloach.net)
   https://github.com/robloach/base16-gtksourceview
@@ -23,7 +23,7 @@
 
 -->
 <style-scheme id="base16-shades-of-purple" _name="Base16 Shades of Purple" version="1.0">
-  <author>Iolar Demartini Junior (http://github.com/demartini) based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode).</author>
+  <author>Iolar Demartini Junior (http://github.com/demartini), based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode)</author>
   <_description></_description>
 
   <!-- Solarized Palette -->

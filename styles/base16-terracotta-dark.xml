@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  Base16 Tokyodark Template for GtkSourceView.
-  Color scheme by Jamy Golden (https://github.com/JamyGolden), Based on Tokyodark.nvim (https://github.com/tiagovla/tokyodark.nvim).
+  Base16 Terracotta Dark Template for GtkSourceView.
+  Color scheme by Alexander Rossell Hayes (https://github.com/rossellhayes).
 
   Base16 GTKSourceView template by Rob Loach (https://robloach.net)
   https://github.com/robloach/base16-gtksourceview
@@ -22,27 +22,27 @@
   along with this library; if not, see <http://www.gnu.org/licenses/>.
 
 -->
-<style-scheme id="base16-tokyodark" _name="Base16 Tokyodark" version="1.0">
-  <author>Jamy Golden (https://github.com/JamyGolden), Based on Tokyodark.nvim (https://github.com/tiagovla/tokyodark.nvim)</author>
+<style-scheme id="base16-terracotta-dark" _name="Base16 Terracotta Dark" version="1.0">
+  <author>Alexander Rossell Hayes (https://github.com/rossellhayes)</author>
   <_description></_description>
 
   <!-- Solarized Palette -->
-  <color name="base00" value="#11121d"/>
-  <color name="base01" value="#212234"/>
-  <color name="base02" value="#212234"/>
-  <color name="base03" value="#353945"/>
-  <color name="base04" value="#4a5057"/>
-  <color name="base05" value="#a0a8cd"/>
-  <color name="base06" value="#abb2bf"/>
-  <color name="base07" value="#bcc2dc"/>
-  <color name="base08" value="#ee6d85"/>
-  <color name="base09" value="#f6955b"/>
-  <color name="base0A" value="#d7a65f"/>
-  <color name="base0B" value="#95c561"/>
-  <color name="base0C" value="#9fbbf3"/>
-  <color name="base0D" value="#7199ee"/>
-  <color name="base0E" value="#a485dd"/>
-  <color name="base0F" value="#773440"/>
+  <color name="base00" value="#241d1a"/>
+  <color name="base01" value="#362b27"/>
+  <color name="base02" value="#473933"/>
+  <color name="base03" value="#594740"/>
+  <color name="base04" value="#a78e84"/>
+  <color name="base05" value="#b8a59d"/>
+  <color name="base06" value="#cabbb5"/>
+  <color name="base07" value="#dcd2ce"/>
+  <color name="base08" value="#f6998f"/>
+  <color name="base09" value="#ffa888"/>
+  <color name="base0A" value="#ffc37a"/>
+  <color name="base0B" value="#b6c68a"/>
+  <color name="base0C" value="#c0bcdb"/>
+  <color name="base0D" value="#b0a4c3"/>
+  <color name="base0E" value="#d8a2b0"/>
+  <color name="base0F" value="#f1ae97"/>
 
   <!-- Global Settings -->
   <style name="text"                        foreground="base05" background="base00"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Base16 PaperColor Light Template for GtkSourceView.
-  Color scheme by Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme).
+  Color scheme by Jon Leopard (http://github.com/jonleopard), based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme).
 
   Base16 GTKSourceView template by Rob Loach (https://robloach.net)
   https://github.com/robloach/base16-gtksourceview
@@ -23,7 +23,7 @@
 
 -->
 <style-scheme id="base16-papercolor-light" _name="Base16 PaperColor Light" version="1.0">
-  <author>Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)</author>
+  <author>Jon Leopard (http://github.com/jonleopard), based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)</author>
   <_description></_description>
 
   <!-- Solarized Palette -->
