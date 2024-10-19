@@ -55,7 +55,8 @@
     <style name="background-pattern"            background="base0F" />
 
     <!-- Bracket Matching -->
-    <style name="bracket-match"                 foreground="base03" background="base01" />
+    <style name="bracket"                       foreground="base0E" />
+    <style name="bracket-match"                 foreground="base0E" bold="true" />
     <style name="bracket-mismatch"              foreground="base08" background="base01" />
 
     <!-- Right Margin -->
@@ -68,6 +69,7 @@
     <style name="def:comment"                   foreground="base03" />
     <style name="def:shebang"                   foreground="base08" bold="true" />
     <style name="def:doc-comment-element"       italic="true" />
+    <style name="def:doc-comment"               italic="true" />
 
     <!-- Constants -->
     <style name="def:constant"                  foreground="base0A" />
@@ -81,6 +83,7 @@
     <style name="def:complex"                   foreground="base09" />
     <style name="def:special-constant"          foreground="base09" />
     <style name="def:boolean"                   foreground="base09" />
+    <style name="def:null-value"                foreground="base09" />
 
     <!-- Identifiers -->
     <style name="def:identifier"                foreground="base0E" />
@@ -91,6 +94,7 @@
 
     <!-- Builtin -->
     <style name="def:builtin"                   foreground="base0C" />
+    <style name="def:built-in-function"         foreground="base0C" />
 
     <!-- Keywords -->
     <style name="def:keyword"                   foreground="base0E" />
@@ -149,6 +153,9 @@
 
     <!-- YAML -->
     <style name="yaml:map-key"                  foreground="base0C" />
+
+    <!-- JSON -->
+    <style name="json:keyname"                  foreground="base0C" />
 
     <!-- GTK-DOC Overrides -->
     <style name="gtk-doc:type"                  foreground="base0E" />
