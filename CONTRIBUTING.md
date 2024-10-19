@@ -6,6 +6,14 @@
 
 - `>=0.9.3` [tinted-builder-rust]
 
+### Development
+
+It is possible to install the styles with the git repository.
+
+``` sh
+git clone git@github.com:RobLoach/base16-gtksourceview.git ~/.local/share/gtksourceview-4
+```
+
 ### Usage for template editing
 
 1. Install [tinted-builder-rust]
